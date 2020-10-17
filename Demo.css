@@ -1,0 +1,495 @@
+.page{
+	width: 100%;
+	height: 100%;
+	background-color: white;
+}
+.box1{
+	width: 100%;
+	height: 20px;
+	background-color: gray;
+}
+.box2{
+	width: 100%;
+	height: 50px;
+	background-color: white;
+}
+.box3{
+	width: 100%;
+	height: 25px;
+	background-color: red;
+}.del1{
+	width: 13%;
+	height: 100%;
+	float: left;
+	font-size: 10px;
+	color: black;
+	margin-left: 50px;
+}
+.del2{
+	width: 20%;
+	height: 100%;
+	float: left;
+	font-size: 10px;
+	color: black;
+	border-left: 2px black;
+	
+}
+.del3{
+	width: 20%;
+	height: 100%;
+	float: left;
+	background-color: gray;
+}
+.fill1{
+	width: 25%;
+	height: 100%;
+	background-color:white;
+	float: left;
+}
+.fill2{
+	width: 50%;
+	height: 100%;
+	background-color: white;
+	float: left;
+}
+.fill3{
+	width: 20%;
+	height: 100%;
+	background-color: white;
+	float: left;
+	
+}
+.box4{
+	width: 100%;
+	height: 250px;
+	background-color: white;
+	border-bottom-color: 5px red;
+}
+.vesion1{
+	width: 30%;
+	height: 100%;
+	background-color: white;
+	float: left;
+}
+.vesion2{
+	width: 70%;
+	height: 100%;
+	background-color:white;
+	float: left;
+	margin-top: 20px;
+}
+.fill1 img {
+	margin-left: 40px;
+	margin-top: 15px
+}
+.now{
+
+	vertical-align: middle;
+	white-space: nowrap;
+	position: relative;
+	margin-top: 15px;
+	margin-left: 20px;
+	float: left;
+}
+.drop {
+	border-radius: 50px ;
+	color: red;
+	float: left;
+}
+.box3  ul li {
+	list-style: none;
+	float: left;
+}
+.box3  ul li a {
+	text-orientation: none;
+	display: block;
+	height: 25px;
+	line-height: 20px;
+	font-size: 10px;
+	padding: 0 10px 0 10px;
+	margin: 0;
+	color: white;
+	font-family: Arial Bold;
+
+	
+}
+.box3 ul li a.active{
+	background: orange;
+}
+.box5{
+	width: 100%;
+	height: 15px;
+	background: white;
+}
+.box6{
+	width: 100%;
+	height: 150px;
+	background: white;
+}
+.next1{
+	width: 12%;
+	height: 65%;
+	background: white;
+	float: left;
+	border: 1px solid gray;
+	margin-left: 70px;
+	background: red;
+	margin-left: 10%;
+}
+.next2{
+	width:12%;
+	height: 65%;
+	background: white;
+	float: left;
+	border: 1px solid gray;
+	margin-left: 10px;
+
+}
+.next3{
+	width: 12%;
+	height: 65%;
+	background: white;
+	float: left;
+	margin-left: 10px;
+	border: 1px solid gray;
+}
+.next4{
+	width: 12%;
+	height: 65%;
+	background: white;
+	float: left;
+	margin-left: 10px;
+	border: 1px solid gray;
+
+}
+.next5{
+	width: 12%;
+	height: 65%;
+	float: left;
+	background: white;
+	margin-left: 10px;
+	border: 1px solid gray;
+}
+.next6{
+	width: 12%;
+	height: 65%;
+	background: white;
+	float: left;
+	margin-left: 10px;
+	border: 1px solid gray;
+
+}
+.next1 a{
+	font-size: 8px;
+	list-style: none;
+
+}
+.pee{
+	font-size: 8px;
+}
+.next2 a{
+	font-size: 8px;
+	list-style: none;
+
+}
+.pee1{
+	font-size: 8px;
+}
+.next3 a{
+	font-size: 8px;
+	list-style: none;
+
+}
+.pee2{
+	font-size: 8px;
+}
+.next4 a{
+	font-size: 8px;
+	list-style: none;
+	float: left;
+
+}
+.pee3{
+	font-size: 8px;
+}
+.next5 a{
+	font-size: 8px;
+	list-style: none;
+
+}
+.pee4{
+	font-size: 8px;
+	float: left;
+}
+.next6 a{
+	font-size: 8px;
+	list-style: none;
+
+}
+.pee5{
+	font-size: 8px;
+}
+.box7{
+	width: 100%;
+	height: 150px;
+	background: white;
+}
+.full1{
+	width: 12%;
+	height: 65%;
+	background: white;
+	float: left;
+	border: 1px solid gray;
+	margin-left: 70px;
+	background: red;
+	margin-left: 10%;
+}
+.full2{
+	width:12%;
+	height: 65%;
+	background: white;
+	float: left;
+	border: 1px solid gray;
+	margin-left: 10px;
+
+}
+.full3{
+	width: 12%;
+	height: 65%;
+	background: white;
+	float: left;
+	/*margin-left: 10px;*/
+	border: 1px solid gray;
+}
+.full4{
+	width: 12%;
+	height: 65%;
+	background: white;
+	float: left;
+	margin-left: 10px;
+	border: 1px solid gray;
+
+}
+.full5{
+	width: 12%;
+	height: 65%;
+	background: white;
+	float: left;
+	margin-left: 10px;
+	border: 1px solid gray;
+
+}
+.full6{
+	width: 12%;
+	height: 65%;
+	background: white;
+	float: left;
+	margin-left: 10px;
+	border: 1px solid gray;
+
+}
+.full1 a{
+	font-size: 8px;
+	list-style: none;
+
+}
+.like1{
+	font-size: 8px;
+}
+.full2 a{
+	font-size: 8px;
+	list-style: none;
+
+}
+.like2{
+	font-size: 8px;
+}
+.full3 a{
+	font-size: 8px;
+	list-style: none;
+
+}
+.like3{
+	font-size: 8px;
+}
+.full4 a{
+	font-size: 8px;
+	list-style: none;
+	float: left;
+
+}
+.like4{
+	font-size: 8px;
+}
+.full5 a{
+	font-size: 8px;
+	list-style: none;
+
+}
+.like5{
+	font-size: 8px;
+	float: left;
+}
+.full6 a{
+	font-size: 8px;
+	list-style: none;
+
+}
+.like6{
+	font-size: 8px;
+}
+.box8{
+	width: 100%;
+	height: 15px;
+	background: white;
+}
+.box9 {
+	width: 100%;
+	height: 280px;
+	background: white;
+}
+.con1{
+	width: 24%;
+	height:100%;
+	background: white;
+	float: left;
+	margin: 0 ;
+}
+.con2{
+	width: 76%;
+	height: 100%;
+	background: white;
+	float: left;
+	margin: 0;
+}
+.co1{
+	width: 100%;
+	height: 50%;
+	background: white;
+	margin-right: 40px;
+
+}
+.co2{
+	width: 100%;
+	height: 50%;
+	background: white;
+}
+.con1 img{
+	margin-left:80px;
+	margin-right: 40px;
+	
+}
+.ne1{
+	width: 15.5%;
+	height: 68%;
+	background: red;
+	float: left;
+	border: 1px solid gray;
+	
+	background: red;
+	
+}
+.ne2{
+	width: 15.5%;
+	height: 68%;
+	background: white;
+	float: left;
+	border: 1px solid gray;
+	margin-left: 10px;
+
+}
+.ne3{
+	width: 15.5%;
+	height: 68%;
+	background: white;
+	float: left;
+	margin-left: 10px;
+	border: 1px solid gray;
+}
+.ne4{
+	width: 15.5%;
+	height: 68%;
+	background: white;
+	float: left;
+	margin-left: 10px;
+	border: 1px solid gray;
+
+}
+.ne5{
+	width: 15.5%;
+	height: 68%;
+	float: left;
+	background: red;
+	margin-left: 10px;
+	border: 1px solid gray;
+}
+.ne6{
+	width: 15.5%;
+	height: 68%;
+	background: red;
+	margin-bottom: 100px;
+	float: left;
+	border: 1px solid gray;
+
+}
+a{
+	font-size: 8px;
+	list-style: none;
+}
+.love1{
+	width: 12%;
+	height: 65%;
+	background: red;
+	float: left;
+	border: 1px solid gray;
+}
+.lag{
+	width: 15%;
+	height: 80%;
+	background: red;
+	font-size: 8px;
+	margin-bottom: 5px;
+	text-align: center;
+	color: white;
+	font-family: Arial bold;
+}
+.lag1{
+	width: 15%;
+	height: 30%;
+	background: red;
+	font-size: 8px;
+	margin-bottom: 5px;
+	text-align: center;
+	color: white;
+	font-family: Arial bold;
+	margin-top: 20px;
+}
+.lag2{
+	width: 15%;
+	height: 30%;
+	background: red;
+	font-size: 8px;
+	margin-bottom: 5px;
+	text-align: center;
+	color: white;
+	font-family: Arial bold;
+	margin-top: 20px;
+}
+.dropdown button{
+	size: 5px;
+	margin-right: 10px;
+	color: white;
+	background-color: red;
+	border-radius: 8px;
+	text-align: left;
+	font-size: 10px;
+}
+.drop button{
+	size: 5px;
+	/*margin-top: 10px;*/
+	color: white;
+	background-color: red;
+	border-radius: 8px;
+	text-align: right;
+	font-size: 10px;
+}

@@ -1,0 +1,315 @@
+.ne7{
+	width: 15.5%;
+	height: 68%;
+	background: red;
+	float: left;
+	margin-left: 12px;
+	border: 1px solid gray;
+}
+.ne8{
+	width: 15.5%;
+	height: 68%;
+	background: red;
+	float: left;
+	margin-left: 12px;
+	border: 1px solid gray;
+}
+.ne9{
+	width: 15.5%;
+	height: 68%;
+	background: red;
+	float: left;
+	margin-left: 12px;
+	border: 1px solid gray;
+}
+.ne10{
+	width: 15.5%;
+	height: 68%;
+	background: red;
+	float: left;
+	margin-left: 12px;
+	border: 1px solid gray;
+}
+
+.box11{
+	width: 100%;
+	height: 40px;
+	background: white;
+}
+.box12{
+	width: 100%;
+	height: 280px;
+	background: yellow;
+}
+.box13{
+	width: 100%;
+	height: 40px;
+	background: white;
+}
+.box14{
+	width: 100%;
+	height: 60px;
+	background: yellow;
+
+}
+.into1 {
+	width: 50%;
+	height: 100%;
+	background: white;
+	float: left;
+}
+.into1 img {
+	margin-left: 78px;
+}
+.into2{
+	width: 50%;
+	height: 100%;
+	background: white;
+	float: left;
+}
+.into2 img {
+	margin-left: 14px;
+}
+.box15{
+	width: 100%;
+	height:40px;
+	background: white;
+}
+.box16{
+	width: 100%;
+	height: 280px;
+	background: yellow;
+}
+.box17{
+	width: 100%;
+	height: 40px;
+	background: white;
+}
+.box18{
+	width: 100%;
+	height: 280px;
+	background: white;
+}
+.box19{
+	width: 100%;
+	height: 40px;
+	background: white;
+}
+.box20{
+	width: 100%;
+	height: 280px;
+	background: white;
+}
+.box21{
+	width: 100%;
+	height: 140px;
+	background: black;
+}
+.get1{
+	width: 36%;
+	height: 100%;
+	background: white;
+	float: left;
+}
+.get2{
+	width: 28%;
+	height: 100%;
+	background: white;
+	float: left;
+}
+.get3{
+	width: 36%;
+	height: 100%;
+	background: white;
+	float: left;
+}
+.get1 img{
+	margin-top: 40px;
+	margin-left: 80px;
+	border: 1px solid gray;
+}
+.get2 img {
+	margin-top: 40px;
+	margin-left: 10px;
+	border: 1px solid gray;
+}
+.get3 img{
+	margin-left: 10px;
+	margin-top: 40px;
+	border: 1px solid gray;
+}
+.box22{
+	width: 100%;
+	height: 160px;
+	color: white;
+	border-top-color: 5px gray;
+}
+.creat1{
+	width: 30%;
+	height: 100%;
+	float: left;
+	color: white;
+}
+.creat2{
+	width: 20%;
+	height: 100%;
+	float: left;
+	color: white;
+}
+.creat3{
+	width: 20%;
+	height: 100%;
+	float: left;
+	color: white;
+}
+.creat4{
+	width: 30%;
+	height: 100%;
+	float: left;
+
+}
+.box23{
+	width: 100%;
+	height: 200px;
+	background: #444444;
+}
+.pick1{
+	width: 16%;
+	height: 100%;
+	float: left;
+	font-size: 7px;
+	margin-left: 80px;
+	color: white;
+	
+}
+.pick2{
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+.pick3{
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+.pick4{
+	width: 30%;
+	height: 100%;
+	float: left;
+}
+.box24{
+	width: 100%;
+	height: 70px;
+	background: gray;
+}
+.line1{
+	width: 50%;
+	height: 100%;
+	background: rgba(255,255,255,0.5);
+	float: left;
+	font-size: 10px;
+}
+.line2{
+	width: 50%;
+	background: rgba(255,255,255,0.5);
+	height: 100%;
+	float: left;
+}
+.line2 svg{
+	box-sizing: border-box;
+	width: 20px;
+	height: 40px;
+	margin-left: 70%;
+	
+}
+.pick1 p{
+	font-size: 8px;
+	color: white;
+}
+.pick1 span{
+	font-size: 10px;
+	margin-top: 10px;
+	color: white;
+}
+.pick1 strong{
+	font-size: 8px;
+	color: white;
+}
+.pick2 span{
+	font-size: 10px;
+	margin-top: 0;
+	color: white;
+}
+.pick{
+	width: 3.3%;
+	height: 100%;
+	float: left;
+}
+.pick2 p{
+	font-size: 10px;
+	color: white;
+}
+.pick2 button{
+	size: 10px;
+	margin-top: 20px;
+	color: white;
+	background-color: red;
+	border-radius: 5px;
+}
+.pick3 span{
+	font-size: 10px;
+	margin-left: 10px;
+	color: white;
+}
+.pick4 span{
+	font-size: 10px;
+	margin-left: 10px;
+	color: white;
+}
+.creat1 span{
+	font-size: 10px;
+	margin-left: 80px;
+	color:black;
+}
+.index a{
+	margin-left: 80px;
+	font-size:  10px;
+	color: blue
+}
+.creat2 span{
+	font-size: 10px;
+	color: black;
+}
+.index1 a{
+	
+	font-size:  10px;
+	color: blue;
+}
+.creat3 span{
+	font-size: 10px;
+	margin-left: 10px;
+	color:black;
+}
+.index2 a{
+	font-size: 10px;
+	margin-left: 10px;
+	color: blue;
+}
+.creat4 span{
+	font-size: 10px;
+	margin-left: 10px;
+	color:black;
+}
+.index3 a{
+	font-size: 10px;
+	margin-left: 10px;
+	color: blue;
+}
+.line1 a{
+	font-size: 10px;
+	
+}
+.new{
+	margin-left: 80px;
+	margin-top: 30px;
+}
